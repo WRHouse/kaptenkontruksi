@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /kaptenmalang/
+
+Sitemap: /sitemap.xml
